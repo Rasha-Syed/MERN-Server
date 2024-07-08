@@ -29,7 +29,10 @@ async function StartServer() {
         console.log('Server live');
     })
 }
-
+function Testing(){
+    return 1;
+}
+Testing();
 StartServer();
 
 
